@@ -1,5 +1,5 @@
 # Task_Jar
-Virtual "Honey Do/Task Jar"
+Virtual "Honey Dew Task Jar"
 
 End features:
 - Create tasks

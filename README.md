@@ -18,6 +18,6 @@ End features:
 - Ability for other users to add tasks to the "jar"
     - Cloud based? Remote Access? Or only direct connection?
 - Randomly pull a task from the "jar"
-    - Specify, if wanted, specific parameters the task must meet (high priority, time, etc.)
+    - Specify, if wanted, parameters the task must meet (high priority, time, etc.)
     - Quick buttons?
         - "Short task", "medium task", etc.
